@@ -26,7 +26,8 @@
 ### Most Popular repo
   
 <a href="https://github.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Burning&repo=blackeye-im&theme=gruvbox"></a>
-
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=The-Burning&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Contact
 <p>
