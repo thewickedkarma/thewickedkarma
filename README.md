@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThe-Burning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 <img align='right' height='250' src= 'https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966'>
 <p>
 
@@ -13,12 +13,16 @@
   
 ### Glad to see you here.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 - 🔭 I’m a high school student who loves CS.
-- 🌱 I’m currently learning python, java and bash scripting.
+- 🌱 I’m currently learning python, java and bash scripting. 
+- 🫀 Open source and linux enthusiast 
 - 👯 I’m always looking forward to contribute to open source
 - 💬 Ask me about nothing, I am lazy.
 - 📫 How to reach me: By teleportation
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Both the word 'Fun' and 'Fact' starts with F. 😶
+- <img height='20' src='https://emojis.slackmojis.com/emojis/images/1486846971/1749/archlinux.png?1486846971'> I use Arch btw 
+  
+
 ### Some silly Stats  😗
 <img src='https://github-readme-stats.vercel.app/api?username=The-Burning&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=The-Burning&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
