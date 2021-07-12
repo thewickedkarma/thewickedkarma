@@ -20,7 +20,7 @@
 - 📫 How to reach me: By teleportation
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Both the word 'Fun' and 'Fact' starts with F. 😶
-- <img height='20' src='https://emojis.slackmojis.com/emojis/images/1486846971/1749/archlinux.png?1486846971'> I use Arch btw 
+- <img height='15' src='https://emojis.slackmojis.com/emojis/images/1486846971/1749/archlinux.png?1486846971'> I use Arch btw 
   
 
 ### Some silly Stats  😗
