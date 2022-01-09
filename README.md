@@ -65,12 +65,12 @@ Operating Systems and Editors:
 
 
 ### Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=The-Burning&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=The-Burning&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Contact:
 <p>
 <p align="left">
-    <a href="https://www.instagram.com/freaxcode/">
+    <a href="https://www.instagram.com/thewickedkarma/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a href="https://twitter.com/Ankitraj7079">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
