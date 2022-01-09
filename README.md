@@ -57,11 +57,15 @@ Tools and Database:
 ![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
-Operating Systems and Editors:
+Editors:
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Vim](http://img.shields.io/badge/-Vim-CCCCCC?style=for-the-badge&logo=vim&logoColor=019833)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=ffffff)
+<br>
+
+Operating Systems:
+
 ![Arch-Linux](http://img.shields.io/badge/-Arch%20Linux-0078D6?style=for-the-badge&logo=arch-linux&logoColor=ffffff)
 ![Manjaro](http://img.shields.io/badge/-Manjaro-4EA94B?style=for-the-badge&logo=manjaro&logoColor=fff)
 ![Kali](http://img.shields.io/badge/-Kali%20Linux-black?style=for-the-badge&logo=kali-linux&logoColor=fff)
