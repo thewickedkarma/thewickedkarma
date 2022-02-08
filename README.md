@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThe-Burning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewers-total&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthewickedkarma&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewers-total&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align='center' ><img class='top' style="border-radius:50%;"height='200' src= 'https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif'></p>
 <h1 align="center">Hi , I'm Ankit <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
@@ -22,12 +22,12 @@
   
 
 ### Some silly Stats  😗
-<img src='https://github-readme-stats.vercel.app/api?username=The-Burning&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117'> &nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=The-Burning&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117'>
+<img src='https://github-readme-stats.vercel.app/api?username=thewickedkarma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117'> &nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thewickedkarma&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117'>
 
 
 ### Most Popular repo:
   
-<a href="https://github.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Burning&repo=blackeye-im&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117"></a>
+<a href="https://github.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thewickedkarma&repo=blackeye-im&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117"></a>
 
 
 
@@ -75,15 +75,15 @@ Operating Systems:
 
 
 ### Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=The-Burning&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thewickedkarma&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Contact:
 <p>
 <p align="left">
     <a href="https://www.instagram.com/thewickedkarma/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/Ankitraj7079">
+    <a href="https://twitter.com/thewickedkarma">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
-    <a href="https://discord.com/channels/@me/798505744843538432">
+    <a href="https://discord.com/channels/thewickedkarma">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>  
