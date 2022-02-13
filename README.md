@@ -21,6 +21,10 @@
 -     💿 I use Arch btw 
   
 
+### Now-Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ahy2eyk52lbk6qkrezrleg2qji&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+
+
 ### Some silly Stats  😗
 <img src='https://github-readme-stats.vercel.app/api?username=thewickedkarma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117'> &nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thewickedkarma&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117'>
 
