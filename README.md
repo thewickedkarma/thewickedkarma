@@ -21,7 +21,7 @@
 -     💿 I use Arch btw 
   
 
-### Now-Playing 🎧
+### Now-Playing/Recently Played 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ahy2eyk52lbk6qkrezrleg2qji&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
 
